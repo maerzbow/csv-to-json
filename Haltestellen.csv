@@ -1,0 +1,613 @@
+HALTESTELLENNAME;ZUGEHOERIGKEIT;Linien die Haltestelle bedienen;Fahrrichtung;X;Y
+Aichinger;LINZ Linien;L101;Urnenhain Urfahr (End);72278;356433
+Aichwiesen;LINZ Linien;L102;Worathweg;70184;354739
+Aichwiesen;LINZ Linien;L102;Rudolfstrasse;70184;354739
+Aloisianum;LINZ Linien;L026;Stadion;69499;351320
+Aloisianum;LINZ Linien;L026;St. Margarethen;69499;351320
+Altenberger Strasse;LINZ Linien;L033;Riesenhof;73046;355058
+Altenberger Strasse;LINZ Linien;L033;Pleschinger See;73046;355058
+Altenberger Strasse;LINZ Linien;L077;Universitaet Nord;73046;355058
+Altenberger Strasse;LINZ Linien;L077;Hauptbahnhof;73046;355058
+Am Bachlberg;LINZ Linien;L102;Rudolfstrasse;69739;355137
+Am Bachlberg;LINZ Linien;L102;Worathweg;69739;355137
+Am Bindermichl;LINZ Linien;L025;Karlhof;71264;348669
+Am Bindermichl;LINZ Linien;L025, L041, L043;Oed, Baintwiese, Stadtfriedhof Linz;71264;348669
+Am Bindermichl;LINZ Linien;L041, L043;Hessenplatz;71264;348669
+Am Sonnenhang;LINZ Linien;L101;Aichinger;72033;355893
+Am Sonnenhang;LINZ Linien;L101;Urnenhain Urfahr;72033;355893
+Aubergstrasse;LINZ Linien;L033;Pleschinger See;69856;353431
+Aubergstrasse;LINZ Linien;L033;Riesenhof;69856;353431
+AuergÅtlweg;LINZ Linien;L104;Sennweg;75103;344793
+AuergÅtlweg;LINZ Linien;L104;Waldesruh;75103;344793
+Auerspergplatz;LINZ Linien;L045, L046;Stieglbauernstr., Hafen;70867;351508
+Auerspergplatz;LINZ Linien;L045, L046;Hauptbahnhof, Froschberg;70867;351508
+Auerspergplatz;LINZ Linien;L070, L071;Hafen;70867;351508
+Auerspergplatz;LINZ Linien;L073;Hauptbahnhof;70867;351508
+AuMÅuellerweg;LINZ Linien;L011, L019;Pichlinger See;75926;346555
+AuMÅuellerweg;LINZ Linien;L011, L019;Fernheizkraftwerk, Sporthalle Leonding;75926;346555
+Auwiesen;LINZ Linien;L012;Endhaltestelle;72461;346074
+Auwiesen;LINZ Linien;L001;Endhaltestelle;72461;346074
+Bachlbergweg;LINZ Linien;L102;Rudolfstrasse;69956;354904
+Bachlbergweg;LINZ Linien;L102;Worathweg;69956;354904
+Bahnhof Ebelsberg;LINZ Linien;L011, L019;Pichlinger See;75376;346475
+Bahnhof Ebelsberg;LINZ Linien;L002;Universitaet;75376;346475
+Bahnhof Ebelsberg;LINZ Linien;L011, L019;Meixnerkreuzung;75376;346475
+Bahnhof Ebelsberg;LINZ Linien;L002;solarCity;75376;346475
+Bahnhof KleinmÅuenchen;LINZ Linien;L018;VOEST Alpine;73755;347035
+Bahnhof KleinmÅuenchen;LINZ Linien;L018;Simonystrasse;73755;347035
+Baintwiese;LINZ Linien;L041;Endhaltestelle;70491;345102
+Baintwiese;LINZ Linien;L073;Endhaltestelle;70491;345102
+Baintwiese;LINZ Linien;L071;Endhaltestelle;70491;345102
+Bannerstrasse;LINZ Linien;L043, L070;Stadtfriedhof;69591;346131
+Bannerstrasse;LINZ Linien;L043, L070;Hessenplatz, Hauptbahnhof;69591;346131
+Baumguertelstrasse;LINZ Linien;L033;Riesenhof;72456;354965
+Baumguertelstrasse;LINZ Linien;L033;Pleschinger See;72456;354965
+Betriebsgebaeude 02;LINZ Linien;L018;VOEST Alpine;73585;348873
+Betriebsgebaeude 02;LINZ Linien;L018;Simonystrasse;73585;348873
+Betriebsgebaeude 34;LINZ Linien;L018;VOEST Alpine;74783;348770
+Betriebsgebaeude 34;LINZ Linien;L018;Simonystrasse;74783;348770
+Betriebsgebaeude 41;LINZ Linien;L025;Karlhof;73446;349305
+Betriebsgebaeude 41;LINZ Linien;L025;Oed;73446;349305
+Betriebsgebaeude 47;LINZ Linien;L018, L025;VOEST Alpine, Oed;73428;349006
+Betriebsgebaeude 47;LINZ Linien;L018, L025;Simonystrasse, Karlhof;73428;349006
+Biberweg;LINZ Linien;L011, L019;Pichlinger See;76761;346165
+Biberweg;LINZ Linien;L011, L019;Meixnerkreuzung;76761;346165
+Biegung;LINZ Linien;L003, L050;Landgutstrasse;70424;353154
+Biegung;LINZ Linien;L003, L050;Hauptbahnhof;70424;353154
+Biegung;LINZ Linien;L033, L038, L102;Pleschinger See, Jaeger im Tal, Worathweg;70424;353154
+Biegung;LINZ Linien;L033, L038, L102;Rudolfstrasse;70424;353154
+Binderlandweg;LINZ Linien;L041, L071;Hessenplatz, Hauptbahnhof;70633;345670
+Binderlandweg;LINZ Linien;L041, L073;Baintwiese;70633;345670
+Blumauerplatz;LINZ Linien;L027, L073;Chemiepark, Fernheizkraftwerk;71341,38;351106,96
+Blumauerplatz;LINZ Linien;L027, L077;Hauptbahnhof;71341,38;351106,96
+Blumauerplatz;LINZ Linien;L070, L071;Hauptbahnhof;71341,38;351106,96
+Blumauerstrasse;LINZ Linien;L073;Fernheizkraftwerk;71603;351322
+Blumauerstrasse;LINZ Linien;L027, L077;Hauptbahnhof;71603;351322
+Botanischer Garten;LINZ Linien;L027;Chemiepark;69886;351102
+Botanischer Garten;LINZ Linien;L027;Fernheizkraftwerk;69886;351102
+Broschgasse;LINZ Linien;L033;Pleschinger See;71273;354186
+Broschgasse;LINZ Linien;L033;Riesenhof;71273;354186
+Brucknerhaus;LINZ Linien;L026;St. Margarethen;71361;352915
+Brucknerhaus;LINZ Linien;L026;Stadion;71361;352915
+Bulgariplatz;LINZ Linien;L001, L002;Auwiesen;72003;350083
+Bulgariplatz;LINZ Linien;L001, L002;Universitaet;72003;350083
+BÅrgerstrasse;LINZ Linien;L001, L002, L003;Rudolfstrasse;71140;351589
+BÅrgerstrasse;LINZ Linien;L001, L002, L003;Hauptbahnhof;71140;351589
+Chemiepark;LINZ Linien;L025;Oed, Karlhof;73441;350416
+Chemiepark;LINZ Linien;L027;Endhaltestelle;73441;350416
+Darrgutstrasse;LINZ Linien;L045;Hauptbahnhof;72312;352029
+Darrgutstrasse;LINZ Linien;L045;Stieglbauernstrasse;72312;352029
+Dauphinestrasse;LINZ Linien;L001;Universitaet;72890;346531
+Dauphinestrasse;LINZ Linien;L001;Auwiesen;72890;346531
+Deutlweg;LINZ Linien;L103;VOEST Alpine;72640;348916
+Die·enleitenweg;LINZ Linien;L102;Worathweg;70069;353927
+Die·enleitenweg;LINZ Linien;L102;Rudolfstrasse;70069;353927
+Dinghoferstrasse;LINZ Linien;L012, L017, L019;Hauptbahnhof;71674;351528
+Dinghoferstrasse;LINZ Linien;L012, L017, L019;Karlhof, Fernheizkraftwerk;71674;351528
+Dinghoferstrasse;LINZ Linien;L041, L043;Hessenplatz;71674;351528
+Don Bosco;LINZ Linien;L025, L027;Chemiepark, Oed;73086;350773
+Don Bosco;LINZ Linien;L025, L027;Karlhof, Fernheizkraftwerk;73086;350773
+Donautal;LINZ Linien;L026, L192;St. Margarethen, Stadtplatz Leonding;69707;352149
+Donautal;LINZ Linien;L026, L192;Stadion, Theatergasse;69707;352149
+Donnererweg;LINZ Linien;L102;Rudolfstrasse;69646;355265
+Donnererweg;LINZ Linien;L102;Worathweg;69646;355265
+Dornach;LINZ Linien;L001, L002;Auwiesen, solarCity;72684;355314
+Dornach;LINZ Linien;L001, L002;Universitaet;72684;355314
+Drosselweg;LINZ Linien;L011, L019, L105;Pichlinger See, SueÅdpark Linz;76837;345537
+Drosselweg;LINZ Linien;L011, L019, L105;Meixnerkreuzung, Siriusweg;76837;345537
+DÅrerstrasse;LINZ Linien;L001;Universitaet;73154;346662
+DÅrerstrasse;LINZ Linien;L001;Auwiesen;73154;346662
+DÅrerstrasse;LINZ Linien;L011, L019;Meixnerkreuzung;73154;346662
+DÅrerstrasse;LINZ Linien;L011, L019;Pichlinger See;73154;346662
+Ebelsberg;LINZ Linien;L002;Universitaet;73917;345765
+Ebelsberg;LINZ Linien;L011, L019;Pichlinger See;73917;345765
+Ebelsberg;LINZ Linien;L011, L019;Meixnerkreuzung;73917;345765
+Ebelsberg;LINZ Linien;L002;solarCity;73917;345765
+Edmund-Aigner-Strasse;LINZ Linien;L002;Universitaet;74223;345169
+Edmund-Aigner-Strasse;LINZ Linien;L002;solarCity;74223;345169
+Eduard-Suess-Strasse;LINZ Linien;L011, L019;Pichlinger See;70430;346680
+Ehrentletzbergerstrasse;LINZ Linien;L017, L073;Hitzing, Baintwiese;73900;352552
+Ehrentletzbergerstrasse;LINZ Linien;L017;Fernheizkraftwerk;73900;352552
+Eichendorffstrasse;LINZ Linien;L012, L041, L043;Auwiesen;70946;347878
+Eichendorffstrasse;LINZ Linien;L012, L041, L043;Karlhof, Hessenplatz;70946;347878
+Einschnitt;LINZ Linien;L050;Hauptplatz;68621;353775
+Eisenhof;LINZ Linien;L027;Fernheizkraftwerk;72632;353445
+Eisenhof;LINZ Linien;L027;Chemiepark;72632;353445
+Eisenwerkstrasse;LINZ Linien;L025;Karlhof;72190;349147
+Eisenwerkstrasse;LINZ Linien;L025;Oed;72190;349147
+Enenkelstrasse;LINZ Linien;L011, L019;Pichlinger See;72206;346600
+Enenkelstrasse;LINZ Linien;L011, L019;Meixnerkreuzung;72206;346600
+Ennsfeld;LINZ Linien;L002;solarCity;74659;345459
+Ennsfeld;LINZ Linien;L002;Universitaet;74659;345459
+EsterbachbrueÅcke;LINZ Linien;L033;Riesenhof;74553;354718
+EsterbachbrueÅcke;LINZ Linien;L033;Pleschinger See;74553;354718
+Europaplatz;LINZ Linien;L025;Oed;72000;351649
+Europaplatz;LINZ Linien;L012, L017, L019, L077;Auwiesen, Hitzing, Pichlinger See, Hauptbahnhof;72000;351649
+Europaplatz;LINZ Linien;L017, L019, L073, L077;Fernheizkraftwerk, Universitaet Nord;72000;351649
+Europaplatz;LINZ Linien;L012, L025;Karlhof;72000;351649
+Europastrasse;LINZ Linien;L025;Karlhof;70518;347799
+Europastrasse;LINZ Linien;L025;Oed;70518;347799
+Fa. Plasser;LINZ Linien;L017, L073;Hitzing, Baintwiese;73307;352502
+Fa. Plasser;LINZ Linien;L017;Fernheizkraftwerk;73307;352502
+Fadingerstrasse;LINZ Linien;L045, L046, L073;Froschberg, Baintwiese;71336;351951
+Falterweg;LINZ Linien;L011, L019;Pichlinger See;76256;346399
+Falterweg;LINZ Linien;L011, L019;Meixnerkreuzung;76256;346399
+Ferdinand Markl Strasse;LINZ Linien;L001, L002;Universitaet;71483;355549
+Ferdinand Markl Strasse;LINZ Linien;L001, L002;Auwiesen, solarCity;71483;355549
+Fernheizkraftwerk;LINZ Linien;L017, L027, L073;Endhaltestelle;73468;351627
+Fernheizkraftwerk;LINZ Linien;L019;Pichlinger See;73468;351627
+Florianer Strasse;LINZ Linien;L011, L019;Pichlinger See;74250;345515
+Florianer Strasse;LINZ Linien;L104;Waldesruh;74250;345515
+Florianer Strasse;LINZ Linien;L011, L019;Meixnerkreuzung;74250;345515
+Florianer Strasse;LINZ Linien;L104;Sennweg;74250;345515
+Floetzerweg;LINZ Linien;L011, L019;Pichlinger See;72488;346603
+Floetzerweg;LINZ Linien;L011, L019;Meixnerkreuzung;72488;346603
+FMA;LINZ Linien;L018;VOEST Alpine;74797;348228
+FMA;LINZ Linien;L018;Simonystrasse;74797;348228
+Frachtenbahnhof;LINZ Linien;L027;Fernheizkraftwerk;72199;350954
+Frachtenbahnhof;LINZ Linien;L027;Chemiepark;72199;350954
+Franckstrasse;LINZ Linien;L025;Karlhof;72322;351389
+Franckstrasse;LINZ Linien;L025, L027;Chemiepark;72322;351389
+Franckstrasse;LINZ Linien;L027;Fernheizkraftwerk;72322;351389
+Franzosenhausweg;LINZ Linien;L071;Baintwiese;71399;345893
+Franzosenhausweg;LINZ Linien;L073;Fernheizkraftwerk;71399;345893
+Freinberg;LINZ Linien;L026;Stadion;69364;351556
+Freinberg;LINZ Linien;L026;St. Margarethen;69364;351556
+Friedhofstrasse;LINZ Linien;L027, L041, L043;Fernheizkraftwerk, Hessenplatz;71684;351139
+Friedhofstrasse;LINZ Linien;L027, L041, L043;Chemiepark, Baintwiese, Stadtfriedhof Linz;71684;351139
+Froschberg;LINZ Linien;L017, L019, L026, L027;Fernheizkraftwerk, Stadion, Chemiepark;69707;350857
+Froschberg;LINZ Linien;L017, L019, L026, L027;Hitzing, Pichlinger See, St. Margarethen;69707;350857
+Froschberg;LINZ Linien;L045, L046;Endhaltestelle;69707;350857
+Further Weg;LINZ Linien;L033;Riesenhof;73398;354945
+Further Weg;LINZ Linien;L033;Pleschinger See;73398;354945
+Gallanderstrasse;LINZ Linien;L027;Chemiepark;72165;353741
+Gallanderstrasse;LINZ Linien;L027;Fernheizkraftwerk;72165;353741
+Garnisonstrasse;LINZ Linien;L046, L073;Hauptbahnhof, Froschberg;72205,5;352374,3
+Garnisonstrasse;LINZ Linien;L045;Hauptbahnhof;72205,5;352374,3
+Garnisonstrasse;LINZ Linien;L045, L046, L070, L071;Stieglbauernstrasse, Hafen;72205,5;352374,3
+Ghegastrasse;LINZ Linien;L027;Chemiepark;70668;350103
+Glaserstrasse;LINZ Linien;L001, L002;Auwiesen, solarCity;72387;355401
+Glaserstrasse;LINZ Linien;L001, L002;Universitaet;72387;355401
+Glimpfingerstrasse;LINZ Linien;L103;VOEST Alpine;72337;348959
+Goethekreuzung;LINZ Linien;L012, L017, L019;Europaplatz;71183;351326
+Goethekreuzung;LINZ Linien;L001, L002, L003;Hauptbahhof;71183;351326
+Goethekreuzung;LINZ Linien;L001, L002, L003;Universitaet, Landgutstrasse;71183;351326
+Goethekreuzung;LINZ Linien;L012, L017, L019;Hauptbahnhof;71183;351326
+Gruberstrasse;LINZ Linien;L045, L046, L070, L071;Stieglbauernstrasse, Hafen;71796;352136
+Gruberstrasse;LINZ Linien;L045, L046, L073;Hauptbahnhof;71796;352136
+Gruberstrasse;LINZ Linien;L012, L025;Europaplatz;71796;352136
+Gruberstrasse;LINZ Linien;L012, L025;Karlhof;71796;352136
+GrÅuendberg;LINZ Linien;L038;Rudolfstrasse;71003;355354
+GrÅuendberg;LINZ Linien;L001, L002;Auwiesen, solarCity;71003;355354
+GrÅuendberg;LINZ Linien;L001, L002;Universitaet;71003;355354
+GrÅuendberg;LINZ Linien;L038;Jaeger im Tal;71003;355354
+Hafen;LINZ Linien;L027;Fernheizkraftwerk;72835;352876
+Hafen;LINZ Linien;L046;Endhaltestelle;72835;352876
+Hafen;LINZ Linien;L073;Baintwiese;72835;352876
+Hafen;LINZ Linien;L070, L071;Hauptbahnhof;72835;352876
+Hafen;LINZ Linien;L027;Chemiepark;72835;352876
+Hagen;LINZ Linien;L050;Hauptplatz;69359;352910
+Hagen;LINZ Linien;L050;Poestlingberg;69359;352910
+Hamerlingstrasse;LINZ Linien;L041, L043;Baintwiese, Stadtfriedhof;71784;350801
+Hanriederstrasse;LINZ Linien;L027;Chemiepark;70332;350156
+Hanriederstrasse;LINZ Linien;L027;Fernheizkraftwerk;70332;350156
+Hanuschstrasse;LINZ Linien;L041, L043;Baintwiese, Stadtfriedhof;71191;349964
+Hanuschstrasse;LINZ Linien;L041, L043;Hessenplatz;71191;349964
+Harbach;LINZ Linien;L038;Jaeger im Tal;70604;354730
+Harbach;LINZ Linien;L001, L002;Auwiesen, solarCity;70604;354730
+Harbach;LINZ Linien;L001, L002;Universitaet;70604;354730
+Harbach;LINZ Linien;L102;Worathweg;70604;354730
+Harbach;LINZ Linien;L038, L102;Rudolfstrasse;70604;354730
+Harbachsiedlung;LINZ Linien;L038;Rudolfstrasse;70823;355051
+Harbachsiedlung;LINZ Linien;L001, L002;Auwiesen, solarCity;70823;355051
+Harbachsiedlung;LINZ Linien;L001, L002;Universitaet;70823;355051
+Harbachsiedlung;LINZ Linien;L038;Jaeger im Tal;70823;355051
+Harruckerstrasse;LINZ Linien;L038;Jaeger im Tal;70495;354080
+Harruckerstrasse;LINZ Linien;L038;Rudolfstrasse;70495;354080
+Hartheimer Strasse;LINZ Linien;L002;Universitaet;74430;345204
+Hartheimer Strasse;LINZ Linien;L104;Sennweg;74430;345204
+Hartheimer Strasse;LINZ Linien;L104;Waldesruh;74430;345204
+Hartheimer Strasse;LINZ Linien;L002;solarCity;74430;345204
+Hatschekstrasse;LINZ Linien;L041, L043;Baintwiese, Stadtfriedhof;71319;348954
+Hatschekstrasse;LINZ Linien;L041, L043;Hessenplatz;71319;348954
+Hauderweg;LINZ Linien;L002;Universitaet;73992;345510
+Hauderweg;LINZ Linien;L104;Sennweg;73992;345510
+Hauderweg;LINZ Linien;L104;Waldesruh;73992;345510
+Hauderweg;LINZ Linien;L002;solarCity;73992;345510
+Hauptbahnhof;LINZ Linien;L012, L017, L019;Waldeggstrasse;71153,31;350744,07
+Hauptbahnhof;LINZ Linien;L001, L002, L003;Auwiesen, solarCity, Doblerholz;71153,31;350744,07
+Hauptbahnhof;LINZ Linien;L001, L002, L003;Universitaet, Landgutstrasse;71153,31;350744,07
+Hauptbahnhof/Busterminal;LINZ Linien;L046;Hafen;71218,03;350864,51
+Hauptbahnhof/Busterminal;LINZ Linien;L077;Endhaltestelle;71218,03;350864,51
+Hauptbahnhof/Busterminal;LINZ Linien;L045;Endhaltestelle;71218,03;350864,51
+Hauptbahnhof/Kaerntnerstrasse;LINZ Linien;L012, L017, L019, L027, L046, L070, L071, L073;Auwiesen, Froschberg;71072;350777,45
+Hauptbahnhof/Kaerntnerstrasse;LINZ Linien;L012, L017, L019, L027, L046, L070, L071, L073;Karlhof, Fernheizkraftwerk;71072;350777,45
+Hauptplatz;LINZ Linien;L192;St. Margarethen;70742;352448
+Hauptplatz;LINZ Linien;L001, L002, L003;Hauptbahnhof;70742;352448
+Hauptplatz;LINZ Linien;L001, L002, L003;Universitaet, Landgutstrasse;70742;352448
+Hauptplatz;LINZ Linien;L050;Endhaltestelle;70742;352448
+Hausleitnerweg;LINZ Linien;L103;VOEST Alpine;71869,22;348376,93
+Haydnstrasse;LINZ Linien;L103;VOEST Alpine;72231;348505
+Heilhamer Weg;LINZ Linien;L012, L025;Auwiesen, Oed;71179;353825
+Heilhamer Weg;LINZ Linien;L012, L025;Karlhof;71179;353825
+Helmholtzstrasse;LINZ Linien;L011, L019;Meixnerkreuzung;70180;346725
+Helmholtzstrasse;LINZ Linien;L011, L019;Pichlinger See;70180;346725
+Herz-Jesu-Kirche;LINZ Linien;L001, L002;Auwiesen, solarCity;71828;350319
+Herz-Jesu-Kirche;LINZ Linien;L001, L002;Universitaet;71828;350319
+Hessenplatz;LINZ Linien;L041, L043;Baintwiese, Stadtfriedhof;71315;351859
+Hillerstrasse;LINZ Linien;L002;Universitaet;74858;346018
+Hillerstrasse;LINZ Linien;L011, L019;Pichlinger See;74858;346018
+Hillerstrasse;LINZ Linien;L011, L019;Meixnerkreuzung;74858;346018
+Hillerstrasse;LINZ Linien;L002;solarCity;74858;346018
+Hoher Damm;LINZ Linien;L050;Hauptplatz;68583;353633
+Hollabererstrasse;LINZ Linien;L017;Fernheizkraftwerk;73942;352183
+Hollabererstrasse;LINZ Linien;L017, L073;Hitzing, Hafen;73942;352183
+Holzstrasse;LINZ Linien;L027;Chemiepark;71978;353020
+Holzstrasse;LINZ Linien;L027;Fernheizkraftwerk;71978;353020
+Hopfengasse;LINZ Linien;L027;Chemiepark;70390;351660
+Hopfengasse;LINZ Linien;L027;Fernheizkraftwerk;70390;351660
+Hoerschingergutstrasse;LINZ Linien;L102;Worathweg;70233;353706
+Hoerschingergutstrasse;LINZ Linien;L102;Rudolfstrasse;70233;353706
+Hoerzingerstrasse;LINZ Linien;L012, L041, L043;Auwiesen, Baintwiese, Stadtfriedhof;71133;347206
+Hoerzingerstrasse;LINZ Linien;L012, L041, L043;Karlhof, Hessenplatz;71133;347206
+Humboldtstrasse;LINZ Linien;L012, L017, L019;Hauptbahnhof;71456;351440
+Humboldtstrasse;LINZ Linien;L012, L017, L019;Europaplatz;71456;351440
+Humboldtstrasse;LINZ Linien;L041, L043;Baintwiese, Stadtfriedhof;71456;351440
+Im Haidgattern;LINZ Linien;L041, L071;Hessenplatz, Hauptbahnhof;70951;346222
+Im Haidgattern;LINZ Linien;L041, L073;Baintwiese;70951;346222
+Im HÅuetterland;LINZ Linien;L011, L012, L019;Meixnerkreuzung, Karlhof;71323;346473
+Im HÅuetterland;LINZ Linien;L011, L012, L019;Pichlinger See, Auwiesen;71323;346473
+Im Schlantenfeld;LINZ Linien;L101;Aichinger;71945;355140
+Im Schlantenfeld;LINZ Linien;L101;Urnenhain Urfahr;71945;355140
+Industriezeile;LINZ Linien;L027;Fernheizkraftwerk;73137,13;352137,45
+Industriezeile;LINZ Linien;L017, L019, L070, L071;Hauptbahnhof;73137,13;352137,45
+Industriezeile;LINZ Linien;L017, L019, L073;Fernheizkraftwerk;73137,13;352137,45
+Industriezeile;LINZ Linien;L027;Chemiepark;73137,13;352137,45
+Jaeger im Tal;LINZ Linien;L038;Endhaltestelle;71161;356951
+Jaegermayr;LINZ Linien;L026;Stadion;69330;351763
+Jaegermayr;LINZ Linien;L026;St. Margarethen;69330;351763
+Johann-Strauss-Strasse;LINZ Linien;L017, L019, L045, L046;Froschberg;70357;350674
+Johann-Strauss-Strasse;LINZ Linien;L017, L019, L045, L046;Hauptbahnhof;70357;350674
+Kaplanhofstrasse;LINZ Linien;L012, L025;Karlhof;71761;352509
+Kaplanhofstrasse;LINZ Linien;L012, L025;Auwiesen, Oed;71761;352509
+Kaplitzstrasse;LINZ Linien;L012, L041, L043;Auwiesen, Baintwiese, Stadtfriedhof;71092;347524
+Kaplitzstrasse;LINZ Linien;L012, L041, L043;Karlhof, Hessenplatz;71092;347524
+Karl-Wiser-Strasse;LINZ Linien;L045, L046;Stieglbauernstrasse, Hafen;70844;351252
+Karl-Wiser-Strasse;LINZ Linien;L045, L046;Hauptbahnhof;70844;351252
+Karlhof;LINZ Linien;L038, L102;Jaeger im Tal, Worathweg;70503;354357
+Karlhof;LINZ Linien;L038, L102;Rudolfstrasse;70503;354357
+Karlhof;LINZ Linien;L012, L025;Endhaltestelle;70503;354357
+Karlhofschule;LINZ Linien;L102;Rudolfstrasse;70378;354105
+Karlhofschule;LINZ Linien;L102;Worathweg;70378;354105
+Kaserne;LINZ Linien;L002;Universitaet;74768;345674
+Kaserne;LINZ Linien;L011, L019;Pichlinger See;74768;345674
+Kaserne;LINZ Linien;L011, L019;Meixnerkreuzung;74768;345674
+Kaserne;LINZ Linien;L002;solarCity;74768;345674
+Katzbach;LINZ Linien;L033;Riesenhof;74251;354866
+Katzbach;LINZ Linien;L033;Pleschinger See;74251;354866
+Katzbachweg;LINZ Linien;L033;Pleschinger See;74005;354864
+Katzbachweg;LINZ Linien;L033;Riesenhof;74005;354864
+Keferfeld;LINZ Linien;L012;Auwiesen;70092;349204
+Keferfeld;LINZ Linien;L012;Karlhof;70092;349204
+Klammstrasse;LINZ Linien;L027;Fernheizkraftwerk;70488;352013
+Klammstrasse;LINZ Linien;L027;Chemiepark;70488;352013
+Klettfischerweg;LINZ Linien;L105;SueÅdpark Linz;77116;346050
+Klettfischerweg;LINZ Linien;L011, L019;Pichlinger See;77116;346050
+Klettfischerweg;LINZ Linien;L011, L019, L105;Meixnerkreuzung, Siriusweg;77116;346050
+Knabenseminarstrasse;LINZ Linien;L102;Rudolfstrasse;70304;353461
+Knabenseminarstrasse;LINZ Linien;L033, L038;Pleschinger See, Jaeger im Tal;70304;353461
+Knabenseminarstrasse;LINZ Linien;L102;Worathweg;70304;353461
+Knabenseminarstrasse;LINZ Linien;L033, L038;Riesenhof, Rudolfstrasse;70304;353461
+Kokerei;LINZ Linien;L025;Karlhof;73345;349803
+Kokerei;LINZ Linien;L025;Oed;73345;349803
+Kopernikusstrasse;LINZ Linien;L025;Oed;71714;348852
+Kopernikusstrasse;LINZ Linien;L025;Karlhof;71714;348852
+Kudlichstrasse;LINZ Linien;L012, L027;Karlhof, Chemiepark;70754;350094
+Kudlichstrasse;LINZ Linien;L012;Auwiesen;70754;350094
+Kudlichstrasse;LINZ Linien;L027;Fernheizkraftwerk;70754;350094
+Lamprechtgang;LINZ Linien;L103;VOEST Alpine;72010;348781
+Landgutstrasse;LINZ Linien;L003;Endhaltestelle;70074;352940
+Landgutstrasse;LINZ Linien;L050;Poestlingberg;70074;352940
+Landgutstrasse;LINZ Linien;L033;Pleschinger See;70074;352940
+Landgutstrasse;LINZ Linien;L033;Riesenhof;70074;352940
+Landwiedstrasse;LINZ Linien;L025;Oed;70744;348118
+Landwiedstrasse;LINZ Linien;L012, L041, L043;Auwiesen, Baintwiese, Stadtfriedhof;70744;348118
+Landwiedstrasse;LINZ Linien;L012;Karlhof;70744;348118
+Landwiedstrasse;LINZ Linien;L025, L041, L043;Karlhof, Hessenplatz;70744;348118
+Laskahofstrasse;LINZ Linien;L011, L012, L019, L073;Meixnerkreuzung, Karlhof;70980;346555
+Laskahofstrasse;LINZ Linien;L011, L012, L019, L071;Pichlinger See, Auwiesen, Baintwiese;70980;346555
+Laskahofstrasse;LINZ Linien;L041, L071;Hessenplatz, Hauptbahnhof;70980;346555
+Laskahofstrasse;LINZ Linien;L041, L073;Baintwiese;70980;346555
+Lederergasse;LINZ Linien;L012, L025;Auwiesen, Oed;71697;352834
+Lederergasse;LINZ Linien;L027;Fernheizkraftwerk;71697;352834
+Lederergasse;LINZ Linien;L012, L025;Karlhof;71697;352834
+Lederergasse;LINZ Linien;L027;Chemiepark;71697;352834
+Leitenbauerstrasse;LINZ Linien;L101;Urnenhain Urfahr;71987;355818
+Leitenbauerstrasse;LINZ Linien;L101;Aichinger;71987;355818
+Lenkstrasse;LINZ Linien;L104;Sennweg;73656;344901
+Leondinger Strasse;LINZ Linien;L045, L046;Froschberg;69776;350816
+Leonfeldner Strasse;LINZ Linien;L033, L038;Riesenhof, Rudolfstrasse;70512;353694
+Leonfeldner Strasse;LINZ Linien;L033;Pleschinger See;70512;353694
+Leonfeldner Strasse;LINZ Linien;L038;Jaeger im Tal;70512;353694
+Lettner;LINZ Linien;L104;Sennweg;75671;344636
+Lettner;LINZ Linien;L104;Waldesruh;75671;344636
+Linke BrÅueckenstrasse;LINZ Linien;L012, L025;Auwiesen, Oed;70972;353975
+Linke BrÅueckenstrasse;LINZ Linien;L001, L002;Auwiesen, solarCity;70972;353975
+Linke BrÅueckenstrasse;LINZ Linien;L001, L002;Universitaet;70972;353975
+Linke BrÅueckenstrasse;LINZ Linien;L033;Riesenhof;70972;353975
+Linke BrÅueckenstrasse;LINZ Linien;L012, L025;Karlhof;70972;353975
+Linke BrÅueckenstrasse;LINZ Linien;L033;Pleschinger See;70972;353975
+Lissfeld;LINZ Linien;L103;VOEST Alpine;71642;348350
+Lonstorferplatz;LINZ Linien;L025, L027;Karlhof, Fernheizkraftwerk;72785;351014
+Lonstorferplatz;LINZ Linien;L025, L027;Chemiepark, Oed;72785;351014
+LueÅfteneggerstrasse;LINZ Linien;L026, L027;Stadion, Chemiepark;71492;352615
+LueÅfteneggerstrasse;LINZ Linien;L026, L027;St. Margarethen, Fernheizkraftwerk;71492;352615
+Maderleithnerweg;LINZ Linien;L101;Urnenhain Urfahr;72036;356423
+Maderleithnerweg;LINZ Linien;L101;Aichinger;72036;356423
+Magdalenastrasse;LINZ Linien;L101;Aichinger;71793;355822
+Magdalenastrasse;LINZ Linien;L101;Urnenhain Urfahr;71793;355822
+Marienberg;LINZ Linien;L101;Aichinger;71748;356024
+Marienberg;LINZ Linien;L101;Urnenhain Urfahr;71748;356024
+Mariendom;LINZ Linien;L045, L046;Stieglbauernstrasse, Hafen;70864;351797
+Mariendom;LINZ Linien;L045, L046;Hauptbahnhof;70864;351797
+Mayrhoferstrasse;LINZ Linien;L071;Baintwiese;70636;344921
+Mayrhoferstrasse;LINZ Linien;L073;Hessenplatz;70636;344921
+Meggauerstrasse;LINZ Linien;L012;Auwiesen;70518;348447
+Meggauerstrasse;LINZ Linien;L012;Karlhof;70518;348447
+Metzstrasse;LINZ Linien;L017, L073;Hitzing, Hafen;73689;352631
+Metzstrasse;LINZ Linien;L017;Fernheizkraftwerk;73689;352631
+Mitterweg;LINZ Linien;L011, L019;Pichlinger See;71893;346485
+Mitterweg;LINZ Linien;L012;Auwiesen;71893;346485
+Mitterweg;LINZ Linien;L011, L012, L019;Meixnerkreuzung, Karlhof;71893;346485
+Mozartkreuzung;LINZ Linien;L045, L046, L070, L071;Stieglbauernstrasse, Hafen;71076;351852
+Mozartkreuzung;LINZ Linien;L001, L002, L003;Hauptbahnhof;71076;351852
+Mozartkreuzung;LINZ Linien;L001, L002, L003;Universitaet, Landgutstrasse;71076;351852
+Mozartkreuzung;LINZ Linien;L045, L046, L073;Hauptbahnhof;71076;351852
+Mozartschule;LINZ Linien;L045, L046, L070, L071;Stieglbauernstrasse, Hafen;71503;352016
+MÅuehlkreisbahnhof;LINZ Linien;L003, L033, L050;Landgutstrasse;70248;353065
+MÅuehlkreisbahnhof;LINZ Linien;L003, L033, L050;Rudolfstrasse;70248;353065
+Muldenstrasse;LINZ Linien;L025;Oed;72438;349315
+MÅueller-Guttenbrunn-Strasse;LINZ Linien;L103;VOEST Alpine;71721;348590
+MÅuellerweg;LINZ Linien;L104;Sennweg;74220;344979
+MÅuellerweg;LINZ Linien;L104;Waldesruh;74220;344979
+Museumstrasse;LINZ Linien;L026, L027;St. Margarethen, Fernheizkraftwerk;71244;352423
+Museumstrasse;LINZ Linien;L026, L027;Stadion, Chemiepark;71244;352423
+Nebingerstrasse;LINZ Linien;L017, L073;Hitzing, Hafen;73864;351653
+Nebingerstrasse;LINZ Linien;L017;Fernheizkraftwerk;73864;351653
+Neubauzeile;LINZ Linien;L071;Baintwiese;71396;346161
+Neubauzeile;LINZ Linien;L073;Hessenplatz;71396;346161
+Neue Heimat;LINZ Linien;L043, L070;Stadtfriedhof;70530;346600
+Neue Heimat;LINZ Linien;L011, L019;Meixnerkreuzung;70530;346600
+Neue Heimat;LINZ Linien;L043, L070;Hessenplatz, Hauptbahnhof;70530;346600
+Neue Welt;LINZ Linien;L001, L002;Universitaet;72873;348785
+Neue Welt;LINZ Linien;L001, L002;Auwiesen, solarCity;72873;348785
+Neufelderstrasse;LINZ Linien;L105;SueÅdpark Linz;76065;346913
+Neufelderstrasse;LINZ Linien;L002,;solarCity;76065;346913
+Neufelderstrasse;LINZ Linien;L002,;Universitaet;76065;346913
+Neufelderstrasse;LINZ Linien;L105;Siriusweg;76065;346913
+Neuhoferstrasse;LINZ Linien;L103;VOEST Alpine;72407;348684
+Neupeint;LINZ Linien;L041, L071;Hessenplatz, Hauptbahnhof;70735;346143
+Neupeint;LINZ Linien;L041, L073;Baintwiese;70735;346143
+Nisslstrasse;LINZ Linien;L033;Riesenhof;69773;353123
+Nisslstrasse;LINZ Linien;L033;Pleschinger See;69773;353123
+Novaragasse;LINZ Linien;L041, L043;Baintwiese, Stadtfriedhof;71434;350361
+Novaragasse;LINZ Linien;L041, L043;Hessenplatz;71434;350361
+Obere Donaulaende;LINZ Linien;L026, L192;St. Margarethen, Stadtplatz Leonding;70615;352496
+Obere Donaulaende;LINZ Linien;L026, L192;Stadion, Theatergasse;70615;352496
+Oberschableder;LINZ Linien;L050;Poestlingberg;68528;353931
+Oberschableder;LINZ Linien;L050;Hauptplatz;68528;353931
+Obersteg;LINZ Linien;L038;Jaeger im Tal;71218;355955
+Obersteg;LINZ Linien;L038;Rudolfstrasse;71218;355955
+Oed;LINZ Linien;L025;Endhaltestelle;70118;347796
+Oidener Strasse;LINZ Linien;L011, L019, L105;Pichlinger See, SueÅdpark Linz;77091;345887
+Oidener Strasse;LINZ Linien;L011, L019, L105;Meixnerkreuzung, Siriusweg;77091;345887
+Ontlstrasse;LINZ Linien;L001, L002;Auwiesen, solarCity;70658;354249
+Ontlstrasse;LINZ Linien;L012, L025;Karlhof;70658;354249
+Ontlstrasse;LINZ Linien;L001, L002;Universitaet;70658;354249
+Ontlstrasse;LINZ Linien;L012, L025;Auwiesen, Oed;70658;354249
+Parkbad;LINZ Linien;L012, L025;Auwiesen, Oed;71530;353048
+Parkbad;LINZ Linien;L012, L025;Karlhof;71530;353048
+Paul-Hahn-Strasse;LINZ Linien;L046, L073;Hauptbahnhof, Froschberg;72459;352579
+Paul-Hahn-Strasse;LINZ Linien;L046, L070, L071;Hafen;72459;352579
+Paula-Scherleitner-Weg;LINZ Linien;L045;Hauptbahnhof;72319;352227
+Paula-Scherleitner-Weg;LINZ Linien;L045;Stieglbauernstrasse;72319;352227
+Pergheimerweg;LINZ Linien;L104;Waldesruh;74053;344798
+Pergheimerweg;LINZ Linien;L104;Sennweg;74053;344798
+Petzoldstrasse;LINZ Linien;L027;Chemiepark;71916;353578
+Petzoldstrasse;LINZ Linien;L027;Fernheizkraftwerk;71916;353578
+Peuerbachstrasse;LINZ Linien;L001, L002;Auwiesen, solarCity;70996;353503
+Peuerbachstrasse;LINZ Linien;L001, L002;Universitaet;70996;353503
+Pichling;LINZ Linien;L011, L019, L105;Pichlinger See, SueÅdpark Linz;77041;345355
+Pichling;LINZ Linien;L011, L019, L105;Meixnerkreuzung, Siriusweg;77041;345355
+Pichlinger See;LINZ Linien;L011, L019;Endhaltestelle;77694;345346
+Pichlinger See;LINZ Linien;L105;Siriusweg;77694;345346
+Pichlinger See;LINZ Linien;L105;SueÅdpark Linz;77694;345346
+Posthofstrasse;LINZ Linien;L027;Fernheizkraftwerk;72709;353211
+Posthofstrasse;LINZ Linien;L027;Chemiepark;72709;353211
+Poestlingberg;LINZ Linien;L050;Endhaltestelle;68695;354482
+Poestlingberg Schloessl;LINZ Linien;L050;Hauptplatz;68688;354273
+Prinz-Eugen-Strasse;LINZ Linien;L017, L019, L045, L070, L071;Hauptbahnhof;72542;351829
+Prinz-Eugen-Strasse;LINZ Linien;L017, L019, L045, L073, L077;Fernheizkraftwerk, Stieglbauernstrasse, Universitaet;72542;351829
+Pummererstrasse;LINZ Linien;L017;Fernheizkraftwerk;73017;352395
+Pummererstrasse;LINZ Linien;L017, L027, L070, L071;Hauptbahnhof;73017;352395
+Pummererstrasse;LINZ Linien;L027, L073;Chemiepark, Baintwiese;73017;352395
+Raedlerweg;LINZ Linien;L001;Universitaet;72704;346298
+Raedlerweg;LINZ Linien;L001;Auwiesen;72704;346298
+Raffelstettner Strasse;LINZ Linien;L011, L019, L105;Pichlinger See, SueÅdpark Linz;77322;345338
+Raffelstettner Strasse;LINZ Linien;L011, L019, L105;Meixnerkreuzung, Siriusweg;77322;345338
+Ramsauerstrasse;LINZ Linien;L025, L041, L043;Oed, Baintwiese, Stadtfriedhof;71017;348352
+Ramsauerstrasse;LINZ Linien;L025, L041, L043;Karlhof, Hessenplatz;71017;348352
+Regerstrasse;LINZ Linien;L027;Fernheizkraftwerk;69867;350472
+Regerstrasse;LINZ Linien;L027;Chemiepark;69867;350472
+Reiherweg;LINZ Linien;L105;SueÅdpark Linz;76654;346741
+Reiherweg;LINZ Linien;L105;Siriusweg;76654;346741
+Remise KleinmÅuenchen;LINZ Linien;L001, L002;Auwiesen, solarCity;73410;347135
+Remise KleinmÅuenchen;LINZ Linien;L001, L002;Universitaet;73410;347135
+Riesenhof;LINZ Linien;L033;Endhaltestelle;69647;353554
+Rilkestrasse;LINZ Linien;L027, L041, L043;Fernheizkraftwerk, Hessenplatz;71938;350888
+Rilkestrasse;LINZ Linien;L027;Chemiepark;71938;350888
+Robert-Stolz-Strasse;LINZ Linien;L027;Chemiepark;70137;350283
+Robert-Stolz-Strasse;LINZ Linien;L027;Fernheizkraftwerk;70137;350283
+Rohrauerweg;LINZ Linien;L104;Waldesruh;74228;344682
+Rohrauerweg;LINZ Linien;L104;Sennweg;74228;344682
+Roemerbergschule;LINZ Linien;L026;Stadion;69787;351984
+Roemerbergschule;LINZ Linien;L026;St. Margarethen;69787;351984
+Rudolfstrasse;LINZ Linien;L001, L002, L003, L050;Universitaet, Landgutstrasse;70488;352972
+Rudolfstrasse;LINZ Linien;L001, L002, L003, L050;Hauptplatz;70488;352972
+Rudolfstrasse;LINZ Linien;L033, L038, L102;Endhaltestelle;70488;352972
+Salesianumweg;LINZ Linien;L027;Chemiepark;70015;351508
+Salesianumweg;LINZ Linien;L027;Fernheizkraftwerk;70015;351508
+Salzburger Strasse;LINZ Linien;L012, L041, L043;Auwiesen, Baintwiese, Stadtfriedhof;70892;346838
+Salzburger Strasse;LINZ Linien;L012, L041, L043;Karlhof, Hessenplatz;70892;346838
+Saporoshjestrasse;LINZ Linien;L011, L019;Meixnerkreuzung;73535;346415
+Saporoshjestrasse;LINZ Linien;L011, L019;Pichlinger See;73535;346415
+Saporoshjestrasse;LINZ Linien;L002;solarCity;73535;346415
+Saporoshjestrasse;LINZ Linien;L002;Universitaet;73535;346415
+Schableder;LINZ Linien;L050;Hauptplatz;68846;353268
+Schableder;LINZ Linien;L050;Poestlingberg;68846;353268
+Scharlinz;LINZ Linien;L001, L002;Auwiesen, solarCity;73038;348279
+Scharlinz;LINZ Linien;L001, L002;Universitaet;73038;348279
+Schatzweg;LINZ Linien;L101;Urnenhain Urfahr;71921;356106
+Schatzweg;LINZ Linien;L101;Aichinger;71921;356106
+Schickenedersteig;LINZ Linien;L101;Aichinger;71756;356627
+Schickenedersteig;LINZ Linien;L101;Urnenhain Urfahr;71756;356627
+Schiffswerft;LINZ Linien;L027;Chemiepark;72485;353758
+Schiffswerft;LINZ Linien;L027;Fernheizkraftwerk;72485;353758
+Schlachthof;LINZ Linien;L027;Chemiepark;71781;353259
+Schlachthof;LINZ Linien;L027;Fernheizkraftwerk;71781;353259
+Schoergenhubbad;LINZ Linien;L012;Auwiesen;71969;346188
+Schoergenhubbad;LINZ Linien;L012;Karlhof;71969;346188
+SchueÅckbauerweg;LINZ Linien;L104;Waldesruh;74498;344765
+SchueÅckbauerweg;LINZ Linien;L104;Sennweg;74498;344765
+Schulertal;LINZ Linien;L026;Stadion;70041;351939
+Schulertal;LINZ Linien;L026;St. Margarethen;70041;351939
+Schumpeterstrasse;LINZ Linien;L001, L002;Auwiesen, solarCity;73050;355341
+Schumpeterstrasse;LINZ Linien;L001, L002;Universitaet;73050;355341
+Schwaigaustrasse;LINZ Linien;L105;SueÅdpark Linz;77859;345927
+Schwaigaustrasse;LINZ Linien;L105;Siriusweg;77859;345927
+Seidelbastweg;LINZ Linien;L011, L019;Meixnerkreuzung;70639;346544
+Seidelbastweg;LINZ Linien;L011, L019;Pichlinger See;70639;346544
+Sennweg;LINZ Linien;L104;Endhaltestelle;73743;344746
+Siemensstrasse;LINZ Linien;L041, L073;Baintwiese;70867;345767
+Siemensstrasse;LINZ Linien;L041, L071;Hessenplatz, Hauptbahnhof;70867;345767
+Simonystrasse;LINZ Linien;L001, L002, L011, L018, L019;Meixnerkreuzung;73508;346830
+Simonystrasse;LINZ Linien;L001, L002;Auwiesen, solarCity;73508;346830
+Simonystrasse;LINZ Linien;L001, L002;Universitaet;73508;346830
+Simonystrasse;LINZ Linien;L001, L002, L011, L018, L019;Pichlinger See;73508;346830
+Simonystrasse;LINZ Linien;L018;Endhaltestelle;73508;346830
+Siriusweg;LINZ Linien;L105;Endhaltestelle;76104;346777
+solarCity;LINZ Linien;L002;Endhaltestelle;76619;346954
+solarCity-Zentrum;LINZ Linien;L002;Universitaet;76382;347063
+solarCity-Zentrum;LINZ Linien;L002;solarCity;76382;347063
+solarCity-Zentrum;LINZ Linien;L105;SueÅdpark Linz;76382;347063
+solarCity-Zentrum;LINZ Linien;L105;Siriusweg;76382;347063
+Sonnbergerstrasse;LINZ Linien;L033;Pleschinger See;71827;354602
+Sonnbergerstrasse;LINZ Linien;L033;Riesenhof;71827;354602
+Sophiengutstrasse;LINZ Linien;L012, L027;Auwiesen, Fernheizkraftwerk;70871;350390
+Sophiengutstrasse;LINZ Linien;L012, L027;Karlhof, Chemiepark;70871;350390
+Spallerhof;LINZ Linien;L025;Oed;71890;349131
+Spallerhof;LINZ Linien;L025;Karlhof;71890;349131
+Spazgasse;LINZ Linien;L050;Poestlingberg;69763;352894
+Spechtweg;LINZ Linien;L105;SueÅdpark Linz;77173;346331
+Spechtweg;LINZ Linien;L105;Siriusweg;77173;346331
+Sportanlage Auwiesen;LINZ Linien;L012;Auwiesen;72172;345853
+Sportanlage Auwiesen;LINZ Linien;L012;Karlhof;72172;345853
+St. Magdalena;LINZ Linien;L101;Aichinger;71775;355556
+St. Magdalena;LINZ Linien;L001, L002;Auwiesen, solarCity;71775;355556
+St. Magdalena;LINZ Linien;L001, L002;Universitaet;71775;355556
+St. Magdalena;LINZ Linien;L101;Urnenhain Urfahr;71775;355556
+St. Margarethen;LINZ Linien;L192;Theatergasse;68576;352543
+St. Margarethen;LINZ Linien;L026;Endhaltestelle;68576;352543
+St. Margarethen;LINZ Linien;L192;Stadtplatz Leonding;68576;352543
+Stadion;LINZ Linien;L017, L019;Fernheizkraftwerk;69997;350718
+Stadion;LINZ Linien;L017, L019, L026, L046;Froschberg;69997;350718
+Stadion;LINZ Linien;L046;Hafen;69997;350718
+Stadlerstrasse;LINZ Linien;L025, L041, L043;Karlhof, Hessenplatz;71272;348362
+Stadlerstrasse;LINZ Linien;L025, L041, L043;Oed, Baintwiese, Stadtfriedhof;71272;348362
+Stahlbau;LINZ Linien;L018;VOEST Alpine;74759;347882
+Stahlbau;LINZ Linien;L018;Simonystrasse;74759;347882
+Stahlwerk;LINZ Linien;L018;VOEST Alpine;74469;349103
+Stahlwerk;LINZ Linien;L018;Simonystrasse;74469;349103
+Steg;LINZ Linien;L101;Endhaltestelle;72011;354767
+Steg;LINZ Linien;L033;Pleschinger See;72011;354767
+Steg;LINZ Linien;L033;Riesenhof;72011;354767
+Stiblerweg;LINZ Linien;L103;VOEST Alpine;71949;348302
+Stieglbauernstrasse;LINZ Linien;L045;Endhaltestelle;72754;351398
+SueÅdpark;LINZ Linien;L105;Endhaltestelle;77877;346357
+Taubenmarkt;LINZ Linien;L001, L002, L003;Universitaet, Landgutstrasse;70892;352192
+Taubenmarkt;LINZ Linien;L001, L002, L003;Hauptbahnhof;70892;352192
+Taubenmarkt;LINZ Linien;L026, L027, L192;St. Margarethen, Fernheizkraftwerk, Stadtplatz Leonding;70892;352192
+Taubenmarkt;LINZ Linien;L026, L027, L192;Stadion, Chemiepark, Theatergasse;70892;352192
+Teistlergutstrasse;LINZ Linien;L102;Rudolfstrasse;70246;354014
+Teistlergutstrasse;LINZ Linien;L102;Worathweg;70246;354014
+Theater;LINZ Linien;L026;St. Margarethen;70483;352193
+Theater;LINZ Linien;L026, L027;Stadion, Chemiepark;70483;352193
+Theatergasse;LINZ Linien;L192;Endhaltestelle;70597;352179
+Tiergarten;LINZ Linien;L050;Hauptplatz;69180;352953
+Turmleitenweg;LINZ Linien;L026, L192;St. Margarethen, Stadtplatz Leonding;69334;352266
+Turmleitenweg;LINZ Linien;L026, L192;Stadion, Theatergasse;69334;352266
+Unionkreuzung;LINZ Linien;L001, L002;Auwiesen, solarCity;71601;350684
+Unionkreuzung;LINZ Linien;L041, L043;Baintwiese, Stadtfriedhof;71601;350684
+Unionkreuzung;LINZ Linien;L001, L002;Universitaet;71601;350684
+Unionkreuzung;LINZ Linien;L041, L043;Hessenplatz;71601;350684
+Universitaet;LINZ Linien;L077;Hauptbahnhof;73236;355646
+Universitaet;LINZ Linien;L001, L002;Endhaltestelle;73236;355646
+Universitaet;LINZ Linien;L077;Universitaet Nord;73236;355646
+Universitaet Nord;LINZ Linien;L077;Endhaltestelle;73236;355646
+Untergaumberg;LINZ Linien;L003;Landgutstrasse;70422;349502
+Untergaumberg;LINZ Linien;L012;Auwiesen;70422;349502
+Untergaumberg;LINZ Linien;L012;Karlhof;70422;349502
+Untergaumberg;LINZ Linien;L003;Doblerholz;70422;349502
+Urnenhain Urfahr;LINZ Linien;L101;Endhaltestelle;71259,5;354444,1
+Urnenhainweg;LINZ Linien;L033;Pleschinger See;71444;354352
+Urnenhainweg;LINZ Linien;L033;Riesenhof;71444;354352
+Vergeinerstrasse;LINZ Linien;L026;St. Margarethen;69510;352008
+Vergeinerstrasse;LINZ Linien;L026;Stadion;69510;352008
+VOEST-Alpine;LINZ Linien;L025;Oed;72742;349135
+VOEST-Alpine;LINZ Linien;L001, L002;Auwiesen, solarCity;72742;349135
+VOEST-Alpine;LINZ Linien;L001, L002;Universitaet;72742;349135
+VOEST-Alpine;LINZ Linien;L018, L025;Simonystrasse, Karlhof;72742;349135
+VOEST-Alpine;LINZ Linien;L103;Endhaltestelle;72742;349135
+Volksfeststrasse;LINZ Linien;L041, L043;Hessenplatz;71474;351919
+Volksgarten;LINZ Linien;L012, L017, L019, L045, L046, L073;Hauptbahnhof;71130;351127
+Volksgarten;LINZ Linien;L012, L017, L019, L045, L046, L070, L071;Europaplatz, Mozartkreuzung;71130;351127
+Wagner-Jauregg-Weg;LINZ Linien;L041, L043;Baintwiese, Stadtfriedhof;71347;349645
+Wagner-Jauregg-Weg;LINZ Linien;L041, L043;Hessenplatz;71347;349645
+Wahringerstrasse;LINZ Linien;L001, L002;Auwiesen, solarCity;73162;347899
+Wahringerstrasse;LINZ Linien;L001, L002;Universitaet;73162;347899
+Waldeggstrasse;LINZ Linien;L012, L017, L019, L027, L045, L046;Auwiesen, Froschberg, Fernheizkraftwerk;70870;350679
+Waldeggstrasse;LINZ Linien;L012, L017, L019, L027, L045, L046;Hauptbahnhof;70870;350679
+Waldesruh;LINZ Linien;L104;Endhaltestelle;76074;344471
+Wallseerstrasse;LINZ Linien;L012;Karlhof;70336;348847
+Wallseerstrasse;LINZ Linien;L012;Auwiesen;70336;348847
+Wambacher Strasse;LINZ Linien;L002;Universitaet;73947;345238
+Wambacher Strasse;LINZ Linien;L002;solarCity;73947;345238
+Wambachsiedlung;LINZ Linien;L104;Sennweg;73675;345123
+Wambachsiedlung;LINZ Linien;L104;Waldesruh;73675;345123
+Wattstrasse;LINZ Linien;L043;Hessenplatz;69244;345908
+Wattstrasse;LINZ Linien;L043;Stadtfriedhof;69244;345908
+Wegscheider Strasse;LINZ Linien;L011, L019;Meixnerkreuzung;70269;346612
+Weikhartweg;LINZ Linien;L011, L019;Pichlinger See;76482,6;346413,72
+Weikhartweg;LINZ Linien;L011, L019;Meixnerkreuzung;76482,6;346413,72
+Weinheberstrasse;LINZ Linien;L103;VOEST Alpine;71556;348457
+Werksposten 1;LINZ Linien;L018;VOEST Alpine;74478;347476
+Werksposten 1;LINZ Linien;L018;Simonystrasse;74478;347476
+WIFI/Linz AG;LINZ Linien;L001, L002;Universitaet;72471;349611
+WIFI/Linz AG;LINZ Linien;L001, L002;Auwiesen;72471;349611
+Wildbergstrasse;LINZ Linien;L001, L002;Auwiesen, solarCity;70803;353212
+Wildbergstrasse;LINZ Linien;L001, L002;Universitaet;70803;353212
+Wimhoelzelstrasse;LINZ Linien;L025, L027;Oed, Chemiepark;72544;351211
+Wimhoelzelstrasse;LINZ Linien;L025, L027;Karlhof, Fernheizkraftwerk;72544;351211
+Wimmerstrasse;LINZ Linien;L001, L002;Universitaet;73294;347495
+Wimmerstrasse;LINZ Linien;L001, L002;Auwiesen;73294;347495
+Winetzhammerstrasse;LINZ Linien;L071;Baintwiese;71179;345552
+Winetzhammerstrasse;LINZ Linien;L073;Hessenplatz;71179;345552
+WinklerbrÅuecke;LINZ Linien;L038;Rudolfstrasse;71208;356425
+WinklerbrÅuecke;LINZ Linien;L038;Jaeger im Tal;71208;356425
+Worathweg;LINZ Linien;L102;Endhaltestelle;69518;355332
+Zeppelinstrasse;LINZ Linien;L011, L019;Pichlinger See;72889;346638
+Zeppelinstrasse;LINZ Linien;L011, L019;Meixnerkreuzung;72889;346638
+Ziererfeldstrasse;LINZ Linien;L105;Siriusweg;76732;346445
+Ziererfeldstrasse;LINZ Linien;L105;SueÅdpark Linz;76732;346445
+Zoehrdorferfeld;LINZ Linien;L041, L071;Hessenplatz, Hauptbahnhof;70380;345423
+Zoehrdorferfeld;LINZ Linien;L041, L073;Baintwiese;70380;345423
