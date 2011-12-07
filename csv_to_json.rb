@@ -9,7 +9,7 @@ class CsvToJson
   end
 
   def csv_file_to_json(csv_file_path)
-    csv_table = CSV.read(csv_file_path, {headers: true, col_sep: ';'})
+    csv_table = CSV.read(csv_file_path, {headers: true, col_sep: ';', encoding: 'WINDOWS-1252'})
 
     list =   []
     csv_table.each do |row|
@@ -19,10 +19,10 @@ class CsvToJson
       end
       list << entry
     end
-    list.to_json
+    JSON.pretty_generate(list)
   end
 
 end
 
 ctj = CsvToJson.new
-ctj.process_file('test.csv')
+ctj.process_file('Flaechen.csv')
