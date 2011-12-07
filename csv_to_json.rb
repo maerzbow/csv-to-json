@@ -4,6 +4,11 @@ require "csv"
 require "json"
 
 class CsvToJson
+
+  def initialize(csv_reader_options = {})
+    @csv_reader_options = csv_reader_options
+  end
+
   def process_files(csv_file_paths)
     csv_file_paths.each do |path|
       process_file path
@@ -23,7 +28,7 @@ class CsvToJson
   end
 
   def csv_file_to_json(csv_file_path)
-    csv_table = CSV.read(csv_file_path, {headers: true, col_sep: ';', encoding: 'ISO-8859-1'})
+    csv_table = CSV.read(csv_file_path, @csv_reader_options)
 
     list =   []
     csv_table.each do |row|
@@ -37,5 +42,5 @@ class CsvToJson
   end
 end
 
-ctj = CsvToJson.new
+ctj = CsvToJson.new({headers: true, col_sep: ';', encoding: 'ISO-8859-1'})
 ctj.process_files(ARGV)
