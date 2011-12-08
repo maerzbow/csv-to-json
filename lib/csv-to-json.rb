@@ -17,9 +17,9 @@ module CsvToJson
 
     def process_file(csv_file_path)
       csv_file_path = File.expand_path csv_file_path
-      json = csv_file_to_json(csv_file_path)
-
       json_file_path = convert_csv_to_json_file_path(csv_file_path)
+
+      json = csv_file_to_json(csv_file_path)
 
       File.new(json_file_path, 'w').write(json)
 
@@ -47,5 +47,3 @@ module CsvToJson
     end
   end
 end
-
-
